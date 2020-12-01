@@ -1,6 +1,7 @@
 # CardClassifier
 
 Game Plan:
+
 0. Read an isolated card from a image(by requiring the background to be back, or providing a frame for users to put the card into)
 
 1. Segementation - isolate the number from the card
