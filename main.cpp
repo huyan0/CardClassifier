@@ -1,6 +1,4 @@
 // main.cpp
-// This code reads a foreground.jpg and a background.jpg images from disk, manipulate
-// them using OpenCV, then writes the output to disk.
 // Author: Yang Hu
 
 #include "opencv2/imgcodecs.hpp"
